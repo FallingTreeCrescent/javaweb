@@ -2,5 +2,5 @@
 
 开发语言 jsp+mysql+html
 
-开发环境 eclipse+tomcat8.0+mysql数据库
+开发环境 eclipse+tomcat8.0+mysql5.7数据库
 
