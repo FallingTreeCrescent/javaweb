@@ -4,7 +4,7 @@
 <head>
 <%@include file="/WEB-INF/jsp/header.jsp" %>
 
-<title>学习卡列表</title>
+<title>333</title>
 </head>
 <body>
 <div class="pd-20">
@@ -12,8 +12,8 @@
         <thead>
             <tr>
                 <th>收货人</th>
-                <th>货品名称</th>
-                <th>货品价格</th>
+                <th>食品名称</th>
+                <th>食品价格</th>
                 <th>地址</th>
                 <th>下单人</th>
                 

@@ -4,14 +4,14 @@
 <head>
 <%@include file="/WEB-INF/jsp/header.jsp" %>
 
-<title>添加学习卡</title>
+<title>222</title>
 </head>
 <body>
 <div class="pd-20">
     <form action="" class="form form-horizontal">
     
         <div class="row cl">
-            <label class="form-label col-2">学习卡名称</label>
+            <label class="form-label col-2">222</label>
             <div class="formControls col-5">
                 <input type="text" class="input-text" name="name" />
             </div>
@@ -19,7 +19,7 @@
         </div>
     
         <div class="row cl">
-            <label class="form-label col-2">所属学科</label>
+            <label class="form-label col-2">222</label>
             <div class="formControls col-5">
                     <input id="subject1" type="checkbox" name="subjectIds" value="1" /><label for="subject1" style="margin-right: 10px;">Java</label>
                     <input id="subject2" type="checkbox" name="subjectIds" value="2" /><label for="subject2" style="margin-right: 10px;">.net</label>
@@ -36,7 +36,7 @@
         </div>
         
         <div class="row cl">
-            <label class="form-label col-2">课件下载地址</label>
+            <label class="form-label col-2">222</label>
             <div class="formControls col-5">
                 <input type="text" class="input-text" name="courseware" />
             </div>

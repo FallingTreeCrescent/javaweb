@@ -21,24 +21,20 @@
 						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner" role="listbox">
 							<div class="item active">
-							 <img src="./images/2.jpg" alt="wolfdog" class="img-responsive">
+							 <img src="./images/111.jpg" alt="wolfdog" class="img-responsive">
 							  <div class="carousel-caption ch">
-								<h3>Sed at ligula sed nibh rutrum pretium </h3>
-								<p>Suspendisse ut ante eget ex maximus malesuada tincidunt eu ex.</p>
+								<h3>Welcome to LKC Restaurant! ! !</h3>
 							  </div>
 							</div>
 							<div class="item">
-							  <img src="./images/4.jpg" alt="cat" class="img-responsive">
+							  <img src="./images/5.jpg" alt="cat" class="img-responsive">
 							  <div class="carousel-caption ch">
-								<h3>Praesent sit amet consequat ante.</h3>
-								<p>Suspendisse ut ante eget ex maximus malesuada tincidunt eu ex.</p>
+								<h3>This is our kitchen.</h3>
 							  </div>
 							</div>
 							<div class="item">
-							   <img src="./images/1.jpg" alt="dog" class="img-responsive">
+							   <img src="./images/222.jpg" alt="dog" class="img-responsive">
 							  <div class="carousel-caption ch">
-								<h3>Lorem ipsum dolor adipiscing elit. </h3>
-								<p>Suspendisse ut ante eget ex maximus malesuada tincidunt eu ex.</p>
 							  </div>
 							 
 							</div>
@@ -62,47 +58,47 @@
 		<div class="our-products">
 			<div class="container">
 				<div class="products-gallery">
-					<h2>OUR-PRODUCTS</h2>
+					<h2>OUR-FOOD</h2>
 					<div class="col-md-3 arr">
 						<div class="bg">
-						  <img src="./images/b.jpg" alt="pet" class="img-responsive">
+						  <img src="./images/444.jpg" alt="pet" class="img-responsive">
 						  <span class="glyphicon glyphicon-heart pst" aria-hidden="true"></span>
 						  <div class="caption">
-							<h3>Muffin Cat</h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+							<h3>重庆小面</h3>
+							<p>重庆小面，是重庆四大特色之一，归属于重庆面食的一类发源于重庆，是重庆的主食之一。</p>
 							<p><a href="#" class="btn btn-danger" role="button">More</a></p>
 						</div>
 						</div>
 					</div>
 					<div class="col-md-3 arr">
 						<div class="bg">
-						  <img src="./images/c.jpg" alt="pet" class="img-responsive">
+						  <img src="./images/555.jpg" alt="pet" class="img-responsive">
 						  <span class="glyphicon glyphicon-heart pst" aria-hidden="true"></span>
 						  <div class="caption">
-							<h3>Doggy</h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+							<h3>扬州炒饭</h3>
+							<p>扬州炒饭又名扬州蛋炒饭，是江苏省扬州市的一道传统名菜，属于淮扬菜。 </p>
 							<p><a href="#" class="btn btn-danger" role="button">More</a> </p>
 						  </div>
 						</div>
 					</div>
 					<div class="col-md-3 arr">
 						<div class="bg">
-						  <img src="./images/d.jpg" alt="pet" class="img-responsive">
+						  <img src="./images/666.jpg" alt="pet" class="img-responsive">
 						  <span class="glyphicon glyphicon-heart pst" aria-hidden="true"></span>
 						  <div class="caption">
-							<h3>Hamster</h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+							<h3>宫保鸡丁炒饭</h3>
+							<p>特色美食宫保鸡丁，是一道闻名中外的特色传统名菜，香辣而味浓，川菜中的经典佳肴，千万不要错过。 </p>
 							<p><a href="#" class="btn btn-danger" role="button">More</a></p>
 						  </div>
 						</div>
 					</div>
 					<div class="col-md-3 arr">
 						<div class="bg">
-						  <img src="./images/e.jpg" alt="pet" class="img-responsive">
+						  <img src="./images/777.jpg" alt="pet" class="img-responsive">
 						  <span class="glyphicon glyphicon-heart pst" aria-hidden="true"></span>
 						  <div class="caption">
-							<h3>Lab Doggy</h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+							<h3>刀削面</h3>
+							<p> 刀削面全凭刀削而得名，以刀功和削技的绝妙而被称为“ 飞刀削面 ”，“一根落汤锅，一根空中飘.”</p>
 							<p><a href="#" class="btn btn-danger" role="button">More</a></p>
 						  </div>
 						 </div>
@@ -112,22 +108,22 @@
 					<div class="traits-technology">
 						<div class="col-md-8 tt">
 							<ul class="traits-text">
-								<li><h3>Traits, Technology</h3></li>
-								<li><p><b style="font-weight:600;">Lorem Ipsum is simply dummy text of the printing</b></p></li>
-								<li><p>There are many variations of passages of Lorem Ipsum available,<br>
-								but the majority have suffered alteration in some form, by injected humour,<br>
-								or randomised words which don't look even slightly believable.</p></li>
+								<li><h3>LKC restaurant</h3></li>
+								<li><p><b style="font-weight:600;">Welcome to the offline restaurant</b></p></li>
+								<li><p>Fried rice is a common food that is stir-fried with cooked rice, some dishes, and eggs.<br>
+								Fried rice is divided into various categories, such as Yangzhou fried rice, sausage fried rice.<br>
+								Because fried rice is easy to make, less time-consuming and nutritious, it is very popular with the public.</p></li>
 							</ul>
 							<ol>
 								<div class="col-md-6 brk">
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
 								</div>
 								<div class="col-md-6 brk">
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
-								<li><a href="#">Lorem Ipsum is simply dummy text.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
+								<li><a href="#">LKC restaurant sells fried rice and pasta.</a></li>
 								</div>
 								<div class="clearfix"></div>
 							</ol>

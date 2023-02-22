@@ -5,7 +5,7 @@
 <%@include file="/WEB-INF/jsp/header.jsp" %>
 
 <link href="<%=ctxPath%>/css/H-ui.login.css" rel="stylesheet" type="text/css" />
-<title>后台登录 - 萌宠专区</title>
+<title>后台登录 - 食品专区</title>
 </head>
 <body>
 <div class="loginWraper">
@@ -40,6 +40,6 @@
     </form>
   </div>
 </div>
-<div class="footer">®北京萌宠信息科技有限公司</div>
+<div class="footer">®北京LKC网上餐厅有限公司</div>
 </body>
 </html>

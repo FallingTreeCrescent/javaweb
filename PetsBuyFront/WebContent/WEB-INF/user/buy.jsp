@@ -7,7 +7,7 @@
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     
         <meta name="format-detection" content="telephone=no" />
-    <title>宠物专区</title>
+    <title>食品专区</title>
    <%@include file="/WEB-INF/header.jsp" %>
 
 <!--loading页结束-->

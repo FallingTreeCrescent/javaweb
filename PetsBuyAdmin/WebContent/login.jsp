@@ -5,7 +5,7 @@
 <%@include file="/WEB-INF/jsp/header.jsp" %>
 
 <link href="<%=ctxPath%>/css/H-ui.login.css" rel="stylesheet" type="text/css" />
-<title>JAVAEE后台登录 - 萌宠专区</title>
+<title>JAVAWEB后台登录 - 食品专区</title>
 </head>
 <body>
 <div class="loginWraper">

@@ -29,7 +29,7 @@
         </div>
         
          <div class="row cl">
-            <label class="form-label col-2">年龄</label>
+            <label class="form-label col-2">热度</label>
             <div class="formControls col-5">
                 <input type="text" class="input-text" placeholder="只能输入数字" name="age" />
             </div>
@@ -38,7 +38,7 @@
          <div class="row cl">
             <label class="form-label col-2">类型</label>
             <div class="formControls col-5">
-                <input type="text" class="input-text"  placeholder="只能输入dog,cat,play否则无法分类显示"   name="type" />
+                <input type="text" class="input-text"  placeholder="必须输入三个类型之一  否则无法分类显示"   name="type" />
             </div>
         </div>
           <div class="row cl">

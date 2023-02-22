@@ -24,14 +24,14 @@
 									  <ul class="dropdown-menu">
 									<li><a href="./Index?action=show">显示所有</a></li>
 									  
-										<li><a href="./Index?action=showCat"">显示猫类信息</a></li>
-										<li><a href="./Index?action=showDog">显示犬类信息</a></li>
-										<li><a href="./Index?action=showPlay">显示所有宠物周边</a></li>
+										<li><a href="./Index?action=showCat"">显示炒饭信息</a></li>
+										<li><a href="./Index?action=showDog">显示面食信息</a></li>
+										<li><a href="./Index?action=showPlay">显示酒水</a></li>
 									  </ul>
 									</li>
 									<li><a href="./User?action=self">我的资料</a></li>
 									<li><a href="./User?action=shopcar">购物车</a></li>
-									<li><a href="./User?action=message">宠物专区</a></li>
+									<li><a href="./User?action=message">食品专区</a></li>
 								<li><a href="../PetsBuyAdmin/">后台管理</a></li>
 								
 								</ul>
@@ -42,5 +42,5 @@
 						<div class="clearfix"></div>
 					</div>
 					<div class="logo">
-						<h1><a href="./Index?action=showCat">LKC<span class="hlf"> 网上宠物店</span></a></h1>
+						<h1><a href="./Index?action=showCat">LKC<span class="hlf"> 网上订餐店</span></a></h1>
 					</div>

@@ -4,7 +4,7 @@
 <head>
 <%@include file="/WEB-INF/jsp/header.jsp" %>
 
-<title>萌宠列表</title>
+<title>食物列表</title>
 </head>
 <body>
 <div class="pd-20">

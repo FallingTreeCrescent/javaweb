@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>萌宠专区</title>
+    <title>食品专区</title>
      <%@include file="/WEB-INF/header.jsp" %>
 
 <!--loading页结束-->

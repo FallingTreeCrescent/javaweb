@@ -10,15 +10,14 @@
 
             
             <div class="des_border" id="p_details">
-                <div class="des_t">宠物详情</div>
+                <div class="des_t">食物详情</div>
                 <div class="des_con">
                 	<table border="0" align="center" style="width:745px; font-size:14px; font-family:'宋体';" cellspacing="0" cellpadding="0">
                       <tr>
                         <td width="500"><img src="${petsDto.image }" width="312" height="312" /></td>
                         <td>
-                        	<b>宠物名称${petsDto.name}</b><br />
-                            【宠物年龄】${petsDto.age}岁 【宠物质地】【宠物产地】：${petsDto.description}<br />
-                            【适用人群】：气质是友好、温和,但也不失机警、热情、聪明、温顺、热心,饲养的城乡均可,宽敞为佳。最好是住在郊区,有一个有围栏的院子更好<br />
+                        	<b>食品名称${petsDto.name}</b><br />
+                            【热度】${petsDto.age} 【描述】${petsDto.description}<br />
                             【价格】 ${petsDto.sale}
                         </td>
                       </tr>
@@ -28,7 +27,7 @@
           	</div>  
             
             <div class="des_border" id="p_comment">
-            	<div class="des_t">宠物评论</div>
+            	<div class="des_t">评论</div>
                 
                 <table border="0" class="jud_tab" cellspacing="0" cellpadding="0">
                   <tr>
@@ -51,7 +50,7 @@
                           </tr>
                         </table>
                     </td>
-                    <td class="jud_bg">您可对已购买宠物进行评价<br />
+                    <td class="jud_bg">您可对已购买食物进行评价<br />
 			      <a href="<%=ctxPath%>/shop?action=detailSubmit&&id=${petsDto.id}" class="go-car">			
                 <img src="images/j_car.png" /></a></td>
                   </tr>
@@ -63,41 +62,37 @@
                   <tr valign="top">
                     <td width="160"><img src="images/peo1.jpg" width="20" height="20" align="absmiddle" />&nbsp;向死而生</td>
                     <td width="180">
-                    	颜色分类：<font color="#999999">粉色</font> <br />
-                        年龄：<font color="#999999">1岁</font>
+                    	
                     </td>
                     <td>
-                    	产品很好，很喜欢，必须给赞。 <br />
+                    	食品很好，很喜欢，必须给赞。 <br />
                         <font color="#999999">2015-09-24</font>
                     </td>
                   </tr>
                   <tr valign="top">
                     <td width="160"><img src="images/peo2.jpg" width="20" height="20" align="absmiddle" />&nbsp;就是这么想的</td>
                     <td width="180">
-                    	颜色分类：<font color="#999999">粉色</font> <br />
-                        年龄：<font color="#999999">1岁</font>
+                    	
                     </td>
                     <td>
-                    	送朋友，她很喜欢，大爱。 <br />
+                    	好评好评！！！ <br />
                         <font color="#999999">2015-09-24</font>
                     </td>
                   </tr>
                   <tr valign="top">
                     <td width="160"><img src="images/peo3.jpg" width="20" height="20" align="absmiddle" />&nbsp;墨镜墨镜</td>
                     <td width="180">
-                    	颜色分类：<font color="#999999">粉色</font> <br />
-                        年龄：<font color="#999999">1岁</font>
+                    	
                     </td>
                     <td>
-                    	大家都说不错<br />
+                    	便宜实惠  赞！！！<br />
                         <font color="#999999">2015-09-24</font>
                     </td>
                   </tr>
                   <tr valign="top">
                     <td width="160"><img src="images/peo4.jpg" width="20" height="20" align="absmiddle" />&nbsp;那*****洋 <br /><font color="#999999">（匿名用户）</font></td>
                     <td width="180">
-                    	颜色分类：<font color="#999999">粉色</font> <br />
-                        年龄：<font color="#999999">1岁</font>
+                    	
                     </td>
                     <td>
                     	下次还会来买，推荐。<br />
@@ -109,8 +104,7 @@
                <tr valign="top">
                     <td width="160"><img src="images/peo4.jpg" width="20" height="20" align="absmiddle" />&nbsp;${e.username } <br /><font color="#999999">（匿名用户）</font></td>
                     <td width="180">
-                    	主题：<font color="#999999">${e.title }</font> <br />
-                        年龄：<font color="#999999">无</font>
+                    	
                     </td>
                     <td>
                     	${e.message }<br />

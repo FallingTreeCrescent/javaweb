@@ -8,11 +8,11 @@
     out.println(request.getRealPath(""));
 %>
 <link href="<%=ctxPath %>/skin/default/skin.css" rel="stylesheet" type="text/css" id="skin" />
-<title>宠物专区后台管理系统</title>
+<title>食品专区后台管理系统</title>
 </head>
 <body>
 <header class="Hui-header cl"> 
-    <a class="Hui-logo l" title="宠物专区 后台管理系统">宠物专区后台管理系统</a> 
+    <a class="Hui-logo l" title="食品专区 后台管理系统">食品专区后台管理系统</a> 
 	<ul class="Hui-userbar">
 		<li class="dropDown dropDown_hover"><a class="dropDown_A">${adminUser.account } <i class="Hui-iconfont">&#xe6d5;</i></a>
 			<ul class="dropDown-menu radius box-shadow">
@@ -44,7 +44,7 @@
     			<dd>
     				<ul>
                         <li><a _href="<%=ctxPath %>/order?action=list" href="javascript:void(0)">用户订单管理</a></li>
-                        <li><a _href="<%=ctxPath %>/Pets?action=list" href="javascript:void(0)">宠物管理</a></li>
+                        <li><a _href="<%=ctxPath %>/Pets?action=list" href="javascript:void(0)">食品管理</a></li>
                         <li><a _href="<%=ctxPath %>/Answer?action=list" href="javascript:void(0)">评价管理</a></li>
                         
     				</ul>

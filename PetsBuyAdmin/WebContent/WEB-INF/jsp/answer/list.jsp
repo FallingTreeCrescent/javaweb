@@ -18,7 +18,7 @@
                     <th>用户</th>
                     <th>主题信息</th>
                     <th>消息</th>
-                    <th>商品编号</th>
+                    <th>食品编号</th>
                     <th>卖家回复</th>
                 <th>操作<label> <div style="color:red">${message}</div></label>
                     

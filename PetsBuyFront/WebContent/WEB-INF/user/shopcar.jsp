@@ -26,12 +26,10 @@
                                     
                                     <h2>${pets.name}</h2>
                                     <img src="${pets.image}" height="200px" width="200px"/></figure>
-                                     <p> 【宠物名字】:${pets.name}</p>
-                                     <p> 【宠物描述】:${pets.description}</p>
-                                     <p> 【宠物年龄】${pets.age}岁了  
-                                     <p>  类型:${pets.type}</p>
-                                       <b>商品价格:${pets.sale}元</b>
-                                     
+                                     <p> 【食物】:${pets.name}</p>
+                                     <p> 【描述】:${pets.description}</p>
+                                     <p> 【热度】${pets.age}</p>
+                                     <b>商品价格:${pets.sale}元</b>
 		                        </c:forEach>     
 		                        </c:if>
                                 <br/>                                <br/>
@@ -76,25 +74,25 @@
             <table border="0" style="width:210px; height:62px; float:left; margin-left:75px; margin-top:30px;" cellspacing="0" cellpadding="0">
               <tr>
                 <td width="72"><img src="images/b1.png" width="62" height="62" /></td>
-                <td><h2>正品保障</h2>正品行货  放心购买</td>
+                <td><h2>食品保障</h2>放心购买</td>
               </tr>
             </table>
 			<table border="0" style="width:210px; height:62px; float:left; margin-left:75px; margin-top:30px;" cellspacing="0" cellpadding="0">
               <tr>
                 <td width="72"><img src="images/b2.png" width="62" height="62" /></td>
-                <td><h2>满38包邮</h2>满38包邮 免运费</td>
+                <td><h2>10元起送</h2>免运费</td>
               </tr>
             </table>
             <table border="0" style="width:210px; height:62px; float:left; margin-left:75px; margin-top:30px;" cellspacing="0" cellpadding="0">
               <tr>
                 <td width="72"><img src="images/b3.png" width="62" height="62" /></td>
-                <td><h2>天天低价</h2>天天低价 畅选无忧</td>
+                <td><h2>粉丝低价</h2>天天低价 畅选无忧</td>
               </tr>
             </table>
             <table border="0" style="width:210px; height:62px; float:left; margin-left:75px; margin-top:30px;" cellspacing="0" cellpadding="0">
               <tr>
                 <td width="72"><img src="images/b4.png" width="62" height="62" /></td>
-                <td><h2>准时送达</h2>收货时间由你做主</td>
+                <td><h2>准时送达</h2>极速送达</td>
               </tr>
             </table>
         </div>

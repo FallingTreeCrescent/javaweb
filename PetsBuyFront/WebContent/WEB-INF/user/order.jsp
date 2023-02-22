@@ -31,9 +31,9 @@
                                  <h3>${pets.name}</h3>
                                 
                                     <p>${pets.name}</p>
-                                    <strong>年龄${pets.age}</strong>
+                                    <strong>热度${pets.age}</strong>
 					       			<small>${pets.description}</small>	
-                                    <b>商品价格:${pets.sale}元</b>
+                                    <b>食品价格:${pets.sale}元</b>
                                     </div>
           <a href="<%=ctxPath%>/User?action=orderdelete&&id=${pets.tid}">
 					<input type="button" value="确认收货" class="order-que"/>
